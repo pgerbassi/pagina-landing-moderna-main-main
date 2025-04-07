@@ -47,7 +47,7 @@ const HeroSection = () => {
                   <div className="w-full order-1 lg:order-2 rounded-xl overflow-hidden border border-white/10 shadow-xl">
             <AspectRatio ratio={16 / 9}>
               <iframe 
-                src="https://www.youtube.com/embed/YsC4J0c9PmA?si=hcP0rSZrRPuhUNkk"
+                src="https://www.youtube.com/embed/xomS80QyFqQ?si=963U-2WC5BjtpfhJ"
                 title="Vídeo de apresentação"
                 className="w-full h-full"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
