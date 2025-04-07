@@ -86,7 +86,7 @@ const OfferSection = () => {
                       <span className="relative text-primary animate-pulse">
                       R$ 37,90
                       <span className="absolute -top-4 -right-10 text-sm bg-[#F97316] text-white px-2 py-0.5 rounded-md rotate-12 animate-bounce">
-                        -50%
+                        -80%
                       </span>
                     </span>
                   </div>
