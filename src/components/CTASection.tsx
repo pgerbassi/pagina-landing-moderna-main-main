@@ -21,7 +21,7 @@ const CTASection = () => {
         </div>
         
         <p className="text-gray-300 text-lg">
-          Acesso imediato e vitalício. Garantia de 7 dias.
+          Acesso imediato. Garantia de 7 dias.
         </p>
       </div>
     </section>
